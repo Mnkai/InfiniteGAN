@@ -1,5 +1,9 @@
 # InfiniteGAN
 
+Quick and Dirty Sunday React Native Project
+
+<img src="https://raw.githubusercontent.com/Mnkai/InfiniteGAN/master/screencap/infinitewaifu.png" alt="Screen capture of InfiniteGAN - in InfiniteWaifu mode" width="480">
+
 ## Dependency
 
 - [react-native-cardview](https://github.com/Kishanjvaghela/react-native-cardview) (MIT)
